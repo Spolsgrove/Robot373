@@ -15,7 +15,7 @@ def closest_color(r,g,b,**kwargs):
     """
     C=closest_color(100,0,0,
             red=[100,0,0],
-            glreen=[0,100,0],
+            green=[0,100,0],
             black=[100,100,100],
             )
     """
